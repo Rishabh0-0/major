@@ -1,0 +1,715 @@
+state,year,mean_ndvi
+Bihar,2000,0.4432
+Chhattisgarh,2000,0.5032
+Jharkhand,2000,0.4685
+Madhya Pradesh,2000,0.4101
+Uttar Pradesh,2000,0.431
+Uttarakhand,2000,0.4969
+Andaman and Nicobar,2000,0.7839
+Andhra Pradesh,2000,0.4601
+Assam,2000,0.5792
+Delhi,2000,0.328
+Goa,2000,0.6318
+Gujarat,2000,0.3039
+Haryana,2000,0.4117
+Himachal Pradesh,2000,0.3486
+Karnataka,2000,0.4568
+Kerala,2000,0.7224
+Lakshadweep,2000,0.6202
+Maharashtra,2000,0.425
+Manipur,2000,0.723
+Meghalaya,2000,0.6838
+Mizoram,2000,0.7824
+Nagaland,2000,0.7288
+Orissa,2000,0.5238
+Punjab,2000,0.4955
+Rajasthan,2000,0.2308
+Sikkim,2000,0.3845
+Tamil Nadu,2000,0.4848
+Tripura,2000,0.7129
+West Bengal,2000,0.4938
+Arunachal Pradesh,2000,0.7109
+Chandigarh,2000,0.4125
+Dadra and Nagar Haveli,2000,0.4946
+Daman and Diu,2000,0.3699
+Puducherry,2000,0.5423
+Bihar,2001,0.452
+Chhattisgarh,2001,0.4808
+Jharkhand,2001,0.4637
+Madhya Pradesh,2001,0.4036
+Uttar Pradesh,2001,0.4363
+Uttarakhand,2001,0.483
+Andaman and Nicobar,2001,0.8038
+Andhra Pradesh,2001,0.4471
+Assam,2001,0.5825
+Delhi,2001,0.3352
+Goa,2001,0.603
+Gujarat,2001,0.3241
+Haryana,2001,0.4234
+Himachal Pradesh,2001,0.3362
+Karnataka,2001,0.4343
+Kerala,2001,0.7158
+Lakshadweep,2001,0.5933
+Maharashtra,2001,0.407
+Manipur,2001,0.7236
+Meghalaya,2001,0.707
+Mizoram,2001,0.7838
+Nagaland,2001,0.7367
+Orissa,2001,0.5009
+Punjab,2001,0.5
+Rajasthan,2001,0.2516
+Sikkim,2001,0.4222
+Tamil Nadu,2001,0.4894
+Tripura,2001,0.7029
+West Bengal,2001,0.493
+Arunachal Pradesh,2001,0.7464
+Chandigarh,2001,0.3962
+Dadra and Nagar Haveli,2001,0.4693
+Daman and Diu,2001,0.3891
+Puducherry,2001,0.5355
+Bihar,2002,0.4717
+Chhattisgarh,2002,0.4909
+Jharkhand,2002,0.4718
+Madhya Pradesh,2002,0.3983
+Uttar Pradesh,2002,0.4383
+Uttarakhand,2002,0.4826
+Andaman and Nicobar,2002,0.8043
+Andhra Pradesh,2002,0.4464
+Assam,2002,0.5976
+Delhi,2002,0.3271
+Goa,2002,0.6299
+Gujarat,2002,0.3106
+Haryana,2002,0.4057
+Himachal Pradesh,2002,0.3366
+Karnataka,2002,0.4388
+Kerala,2002,0.7255
+Lakshadweep,2002,0.6462
+Maharashtra,2002,0.4158
+Manipur,2002,0.7443
+Meghalaya,2002,0.7023
+Mizoram,2002,0.7949
+Nagaland,2002,0.7519
+Orissa,2002,0.5134
+Punjab,2002,0.4895
+Rajasthan,2002,0.2099
+Sikkim,2002,0.4222
+Tamil Nadu,2002,0.4732
+Tripura,2002,0.7124
+West Bengal,2002,0.508
+Arunachal Pradesh,2002,0.7406
+Chandigarh,2002,0.3922
+Dadra and Nagar Haveli,2002,0.4736
+Daman and Diu,2002,0.3955
+Puducherry,2002,0.5343
+Bihar,2003,0.4712
+Chhattisgarh,2003,0.4987
+Jharkhand,2003,0.4882
+Madhya Pradesh,2003,0.4361
+Uttar Pradesh,2003,0.4631
+Uttarakhand,2003,0.494
+Andaman and Nicobar,2003,0.7975
+Andhra Pradesh,2003,0.4408
+Assam,2003,0.5962
+Delhi,2003,0.3587
+Goa,2003,0.611
+Gujarat,2003,0.3451
+Haryana,2003,0.4526
+Himachal Pradesh,2003,0.3459
+Karnataka,2003,0.4159
+Kerala,2003,0.7246
+Lakshadweep,2003,0.6198
+Maharashtra,2003,0.4137
+Manipur,2003,0.728
+Meghalaya,2003,0.7225
+Mizoram,2003,0.7879
+Nagaland,2003,0.7447
+Orissa,2003,0.5085
+Punjab,2003,0.5149
+Rajasthan,2003,0.2595
+Sikkim,2003,0.4303
+Tamil Nadu,2003,0.4646
+Tripura,2003,0.7105
+West Bengal,2003,0.511
+Arunachal Pradesh,2003,0.733
+Chandigarh,2003,0.4202
+Dadra and Nagar Haveli,2003,0.479
+Daman and Diu,2003,0.3992
+Puducherry,2003,0.5278
+Bihar,2004,0.4581
+Chhattisgarh,2004,0.5286
+Jharkhand,2004,0.4829
+Madhya Pradesh,2004,0.4321
+Uttar Pradesh,2004,0.4529
+Uttarakhand,2004,0.4975
+Andaman and Nicobar,2004,0.8024
+Andhra Pradesh,2004,0.4588
+Assam,2004,0.5824
+Delhi,2004,0.3482
+Goa,2004,0.6315
+Gujarat,2004,0.3482
+Haryana,2004,0.4419
+Himachal Pradesh,2004,0.347
+Karnataka,2004,0.4419
+Kerala,2004,0.716
+Lakshadweep,2004,0.6041
+Maharashtra,2004,0.4256
+Manipur,2004,0.7306
+Meghalaya,2004,0.7147
+Mizoram,2004,0.784
+Nagaland,2004,0.7536
+Orissa,2004,0.5389
+Punjab,2004,0.5183
+Rajasthan,2004,0.2441
+Sikkim,2004,0.4169
+Tamil Nadu,2004,0.4784
+Tripura,2004,0.7095
+West Bengal,2004,0.5076
+Arunachal Pradesh,2004,0.7273
+Chandigarh,2004,0.4045
+Dadra and Nagar Haveli,2004,0.4875
+Daman and Diu,2004,0.4434
+Puducherry,2004,0.5399
+Bihar,2005,0.4562
+Chhattisgarh,2005,0.5138
+Jharkhand,2005,0.4752
+Madhya Pradesh,2005,0.4324
+Uttar Pradesh,2005,0.4514
+Uttarakhand,2005,0.4992
+Andaman and Nicobar,2005,0.7878
+Andhra Pradesh,2005,0.4551
+Assam,2005,0.5994
+Delhi,2005,0.3536
+Goa,2005,0.6032
+Gujarat,2005,0.352
+Haryana,2005,0.4462
+Himachal Pradesh,2005,0.3466
+Karnataka,2005,0.4587
+Kerala,2005,0.7269
+Lakshadweep,2005,0.594
+Maharashtra,2005,0.4276
+Manipur,2005,0.7413
+Meghalaya,2005,0.7231
+Mizoram,2005,0.7888
+Nagaland,2005,0.7583
+Orissa,2005,0.5258
+Punjab,2005,0.5212
+Rajasthan,2005,0.2496
+Sikkim,2005,0.4395
+Tamil Nadu,2005,0.5009
+Tripura,2005,0.7129
+West Bengal,2005,0.5138
+Arunachal Pradesh,2005,0.7374
+Chandigarh,2005,0.4212
+Dadra and Nagar Haveli,2005,0.4639
+Daman and Diu,2005,0.4478
+Puducherry,2005,0.5437
+Bihar,2006,0.4627
+Chhattisgarh,2006,0.5122
+Jharkhand,2006,0.4839
+Madhya Pradesh,2006,0.4225
+Uttar Pradesh,2006,0.4511
+Uttarakhand,2006,0.5079
+Andaman and Nicobar,2006,0.796
+Andhra Pradesh,2006,0.4761
+Assam,2006,0.5954
+Delhi,2006,0.3451
+Goa,2006,0.6387
+Gujarat,2006,0.3629
+Haryana,2006,0.4494
+Himachal Pradesh,2006,0.3549
+Karnataka,2006,0.4607
+Kerala,2006,0.728
+Lakshadweep,2006,0.6056
+Maharashtra,2006,0.4464
+Manipur,2006,0.7369
+Meghalaya,2006,0.7235
+Mizoram,2006,0.7676
+Nagaland,2006,0.7502
+Orissa,2006,0.5358
+Punjab,2006,0.5259
+Rajasthan,2006,0.2529
+Sikkim,2006,0.4585
+Tamil Nadu,2006,0.5049
+Tripura,2006,0.7007
+West Bengal,2006,0.5133
+Arunachal Pradesh,2006,0.7524
+Chandigarh,2006,0.4074
+Dadra and Nagar Haveli,2006,0.4919
+Daman and Diu,2006,0.46
+Puducherry,2006,0.5381
+Bihar,2007,0.4698
+Chhattisgarh,2007,0.516
+Jharkhand,2007,0.4926
+Madhya Pradesh,2007,0.4363
+Uttar Pradesh,2007,0.454
+Uttarakhand,2007,0.5086
+Andaman and Nicobar,2007,0.7879
+Andhra Pradesh,2007,0.4763
+Assam,2007,0.5946
+Delhi,2007,0.3537
+Goa,2007,0.6005
+Gujarat,2007,0.3826
+Haryana,2007,0.4616
+Himachal Pradesh,2007,0.3599
+Karnataka,2007,0.4553
+Kerala,2007,0.6963
+Lakshadweep,2007,0.6121
+Maharashtra,2007,0.45
+Manipur,2007,0.7391
+Meghalaya,2007,0.7256
+Mizoram,2007,0.7438
+Nagaland,2007,0.7632
+Orissa,2007,0.5295
+Punjab,2007,0.5459
+Rajasthan,2007,0.2691
+Sikkim,2007,0.4389
+Tamil Nadu,2007,0.494
+Tripura,2007,0.6969
+West Bengal,2007,0.5125
+Arunachal Pradesh,2007,0.7521
+Chandigarh,2007,0.4139
+Dadra and Nagar Haveli,2007,0.4929
+Daman and Diu,2007,0.4694
+Puducherry,2007,0.5297
+Bihar,2008,0.4681
+Chhattisgarh,2008,0.5077
+Jharkhand,2008,0.4718
+Madhya Pradesh,2008,0.4319
+Uttar Pradesh,2008,0.4515
+Uttarakhand,2008,0.4921
+Andaman and Nicobar,2008,0.7896
+Andhra Pradesh,2008,0.4762
+Assam,2008,0.6026
+Delhi,2008,0.3454
+Goa,2008,0.6357
+Gujarat,2008,0.3711
+Haryana,2008,0.453
+Himachal Pradesh,2008,0.3459
+Karnataka,2008,0.4669
+Kerala,2008,0.7299
+Lakshadweep,2008,0.6175
+Maharashtra,2008,0.4255
+Manipur,2008,0.7251
+Meghalaya,2008,0.7165
+Mizoram,2008,0.7711
+Nagaland,2008,0.7637
+Orissa,2008,0.5218
+Punjab,2008,0.5202
+Rajasthan,2008,0.2628
+Sikkim,2008,0.4256
+Tamil Nadu,2008,0.5202
+Tripura,2008,0.6987
+West Bengal,2008,0.5104
+Arunachal Pradesh,2008,0.7511
+Chandigarh,2008,0.406
+Dadra and Nagar Haveli,2008,0.4636
+Daman and Diu,2008,0.4714
+Puducherry,2008,0.5537
+Bihar,2009,0.4622
+Chhattisgarh,2009,0.4947
+Jharkhand,2009,0.4619
+Madhya Pradesh,2009,0.4377
+Uttar Pradesh,2009,0.4466
+Uttarakhand,2009,0.484
+Andaman and Nicobar,2009,0.7869
+Andhra Pradesh,2009,0.4469
+Assam,2009,0.5894
+Delhi,2009,0.3278
+Goa,2009,0.6286
+Gujarat,2009,0.3588
+Haryana,2009,0.4419
+Himachal Pradesh,2009,0.34
+Karnataka,2009,0.4687
+Kerala,2009,0.7238
+Lakshadweep,2009,0.5953
+Maharashtra,2009,0.435
+Manipur,2009,0.726
+Meghalaya,2009,0.7092
+Mizoram,2009,0.758
+Nagaland,2009,0.7387
+Orissa,2009,0.5081
+Punjab,2009,0.5112
+Rajasthan,2009,0.2448
+Sikkim,2009,0.4334
+Tamil Nadu,2009,0.487
+Tripura,2009,0.6866
+West Bengal,2009,0.5065
+Arunachal Pradesh,2009,0.7387
+Chandigarh,2009,0.397
+Dadra and Nagar Haveli,2009,0.4687
+Daman and Diu,2009,0.4454
+Puducherry,2009,0.5391
+Bihar,2010,0.4662
+Chhattisgarh,2010,0.5157
+Jharkhand,2010,0.4688
+Madhya Pradesh,2010,0.4575
+Uttar Pradesh,2010,0.4634
+Uttarakhand,2010,0.4925
+Andaman and Nicobar,2010,0.7883
+Andhra Pradesh,2010,0.4952
+Assam,2010,0.5867
+Delhi,2010,0.3418
+Goa,2010,0.6399
+Gujarat,2010,0.3836
+Haryana,2010,0.4677
+Himachal Pradesh,2010,0.353
+Karnataka,2010,0.5006
+Kerala,2010,0.7353
+Lakshadweep,2010,0.6349
+Maharashtra,2010,0.4713
+Manipur,2010,0.7211
+Meghalaya,2010,0.7031
+Mizoram,2010,0.7645
+Nagaland,2010,0.7273
+Orissa,2010,0.5374
+Punjab,2010,0.5383
+Rajasthan,2010,0.2812
+Sikkim,2010,0.4564
+Tamil Nadu,2010,0.5188
+Tripura,2010,0.6865
+West Bengal,2010,0.5096
+Arunachal Pradesh,2010,0.7115
+Chandigarh,2010,0.4181
+Dadra and Nagar Haveli,2010,0.5144
+Daman and Diu,2010,0.4681
+Puducherry,2010,0.568
+Bihar,2011,0.4801
+Chhattisgarh,2011,0.5267
+Jharkhand,2011,0.4854
+Madhya Pradesh,2011,0.4528
+Uttar Pradesh,2011,0.4808
+Uttarakhand,2011,0.4974
+Andaman and Nicobar,2011,0.7877
+Andhra Pradesh,2011,0.4876
+Assam,2011,0.6037
+Delhi,2011,0.3596
+Goa,2011,0.6292
+Gujarat,2011,0.3987
+Haryana,2011,0.4812
+Himachal Pradesh,2011,0.3575
+Karnataka,2011,0.4787
+Kerala,2011,0.727
+Lakshadweep,2011,0.5813
+Maharashtra,2011,0.4574
+Manipur,2011,0.7342
+Meghalaya,2011,0.7178
+Mizoram,2011,0.7883
+Nagaland,2011,0.75
+Orissa,2011,0.5477
+Punjab,2011,0.5437
+Rajasthan,2011,0.3124
+Sikkim,2011,0.4308
+Tamil Nadu,2011,0.5251
+Tripura,2011,0.6974
+West Bengal,2011,0.5218
+Arunachal Pradesh,2011,0.762
+Chandigarh,2011,0.4219
+Dadra and Nagar Haveli,2011,0.4756
+Daman and Diu,2011,0.4822
+Puducherry,2011,0.5579
+Bihar,2012,0.478
+Chhattisgarh,2012,0.5081
+Jharkhand,2012,0.4841
+Madhya Pradesh,2012,0.4403
+Uttar Pradesh,2012,0.4655
+Uttarakhand,2012,0.4846
+Andaman and Nicobar,2012,0.7809
+Andhra Pradesh,2012,0.4657
+Assam,2012,0.5808
+Delhi,2012,0.34
+Goa,2012,0.6193
+Gujarat,2012,0.3595
+Haryana,2012,0.4633
+Himachal Pradesh,2012,0.3519
+Karnataka,2012,0.4555
+Kerala,2012,0.7196
+Lakshadweep,2012,0.6132
+Maharashtra,2012,0.4352
+Manipur,2012,0.7365
+Meghalaya,2012,0.7058
+Mizoram,2012,0.7838
+Nagaland,2012,0.7457
+Orissa,2012,0.5336
+Punjab,2012,0.5304
+Rajasthan,2012,0.292
+Sikkim,2012,0.4271
+Tamil Nadu,2012,0.4935
+Tripura,2012,0.6961
+West Bengal,2012,0.5206
+Arunachal Pradesh,2012,0.7381
+Chandigarh,2012,0.4106
+Dadra and Nagar Haveli,2012,0.4674
+Daman and Diu,2012,0.4285
+Puducherry,2012,0.5056
+Bihar,2013,0.4973
+Chhattisgarh,2013,0.5364
+Jharkhand,2013,0.5184
+Madhya Pradesh,2013,0.4612
+Uttar Pradesh,2013,0.4929
+Uttarakhand,2013,0.513
+Andaman and Nicobar,2013,0.7843
+Andhra Pradesh,2013,0.4913
+Assam,2013,0.5984
+Delhi,2013,0.3672
+Goa,2013,0.6339
+Gujarat,2013,0.393
+Haryana,2013,0.4894
+Himachal Pradesh,2013,0.3701
+Karnataka,2013,0.4651
+Kerala,2013,0.6966
+Lakshadweep,2013,0.5955
+Maharashtra,2013,0.4517
+Manipur,2013,0.7398
+Meghalaya,2013,0.7168
+Mizoram,2013,0.7831
+Nagaland,2013,0.7562
+Orissa,2013,0.5672
+Punjab,2013,0.5525
+Rajasthan,2013,0.3072
+Sikkim,2013,0.4236
+Tamil Nadu,2013,0.4792
+Tripura,2013,0.7068
+West Bengal,2013,0.5369
+Arunachal Pradesh,2013,0.7493
+Chandigarh,2013,0.4434
+Dadra and Nagar Haveli,2013,0.48
+Daman and Diu,2013,0.4506
+Puducherry,2013,0.5319
+Bihar,2014,0.5048
+Chhattisgarh,2014,0.5381
+Jharkhand,2014,0.5104
+Madhya Pradesh,2014,0.4694
+Uttar Pradesh,2014,0.4826
+Uttarakhand,2014,0.5086
+Andaman and Nicobar,2014,0.7992
+Andhra Pradesh,2014,0.4805
+Assam,2014,0.5896
+Delhi,2014,0.3437
+Goa,2014,0.6604
+Gujarat,2014,0.3923
+Haryana,2014,0.4768
+Himachal Pradesh,2014,0.3612
+Karnataka,2014,0.4888
+Kerala,2014,0.7337
+Lakshadweep,2014,0.5755
+Maharashtra,2014,0.465
+Manipur,2014,0.7346
+Meghalaya,2014,0.7018
+Mizoram,2014,0.7888
+Nagaland,2014,0.7495
+Orissa,2014,0.5596
+Punjab,2014,0.5506
+Rajasthan,2014,0.2975
+Sikkim,2014,0.4438
+Tamil Nadu,2014,0.4883
+Tripura,2014,0.7
+West Bengal,2014,0.5333
+Arunachal Pradesh,2014,0.7337
+Chandigarh,2014,0.4263
+Dadra and Nagar Haveli,2014,0.484
+Daman and Diu,2014,0.4878
+Puducherry,2014,0.5509
+Bihar,2015,0.4988
+Chhattisgarh,2015,0.5325
+Jharkhand,2015,0.4926
+Madhya Pradesh,2015,0.4668
+Uttar Pradesh,2015,0.4722
+Uttarakhand,2015,0.5165
+Andaman and Nicobar,2015,0.8084
+Andhra Pradesh,2015,0.4729
+Assam,2015,0.6045
+Delhi,2015,0.356
+Goa,2015,0.6885
+Gujarat,2015,0.3762
+Haryana,2015,0.4827
+Himachal Pradesh,2015,0.3672
+Karnataka,2015,0.4911
+Kerala,2015,0.76
+Lakshadweep,2015,0.6358
+Maharashtra,2015,0.4609
+Manipur,2015,0.7362
+Meghalaya,2015,0.7208
+Mizoram,2015,0.7923
+Nagaland,2015,0.758
+Orissa,2015,0.5649
+Punjab,2015,0.563
+Rajasthan,2015,0.2956
+Sikkim,2015,0.4551
+Tamil Nadu,2015,0.5347
+Tripura,2015,0.7064
+West Bengal,2015,0.5416
+Arunachal Pradesh,2015,0.7563
+Chandigarh,2015,0.443
+Dadra and Nagar Haveli,2015,0.5009
+Daman and Diu,2015,0.4587
+Puducherry,2015,0.5714
+Bihar,2016,0.4896
+Chhattisgarh,2016,0.519
+Jharkhand,2016,0.4865
+Madhya Pradesh,2016,0.4444
+Uttar Pradesh,2016,0.4706
+Uttarakhand,2016,0.5086
+Andaman and Nicobar,2016,0.7904
+Andhra Pradesh,2016,0.4643
+Assam,2016,0.6104
+Delhi,2016,0.3413
+Goa,2016,0.6349
+Gujarat,2016,0.3781
+Haryana,2016,0.4856
+Himachal Pradesh,2016,0.3725
+Karnataka,2016,0.4603
+Kerala,2016,0.7318
+Lakshadweep,2016,0.5635
+Maharashtra,2016,0.4421
+Manipur,2016,0.7521
+Meghalaya,2016,0.7235
+Mizoram,2016,0.8002
+Nagaland,2016,0.7648
+Orissa,2016,0.5542
+Punjab,2016,0.5622
+Rajasthan,2016,0.3005
+Sikkim,2016,0.4472
+Tamil Nadu,2016,0.4983
+Tripura,2016,0.726
+West Bengal,2016,0.5434
+Arunachal Pradesh,2016,0.7477
+Chandigarh,2016,0.411
+Dadra and Nagar Haveli,2016,0.4536
+Daman and Diu,2016,0.4481
+Puducherry,2016,0.5522
+Bihar,2017,0.5077
+Chhattisgarh,2017,0.5281
+Jharkhand,2017,0.5005
+Madhya Pradesh,2017,0.4665
+Uttar Pradesh,2017,0.4895
+Uttarakhand,2017,0.5087
+Andaman and Nicobar,2017,0.8044
+Andhra Pradesh,2017,0.4936
+Assam,2017,0.621
+Delhi,2017,0.3618
+Goa,2017,0.6678
+Gujarat,2017,0.4002
+Haryana,2017,0.4826
+Himachal Pradesh,2017,0.3654
+Karnataka,2017,0.4832
+Kerala,2017,0.7409
+Lakshadweep,2017,0.5928
+Maharashtra,2017,0.4847
+Manipur,2017,0.7623
+Meghalaya,2017,0.7384
+Mizoram,2017,0.8095
+Nagaland,2017,0.7801
+Orissa,2017,0.5578
+Punjab,2017,0.538
+Rajasthan,2017,0.3028
+Sikkim,2017,0.4662
+Tamil Nadu,2017,0.4945
+Tripura,2017,0.735
+West Bengal,2017,0.554
+Arunachal Pradesh,2017,0.7589
+Chandigarh,2017,0.4318
+Dadra and Nagar Haveli,2017,0.5045
+Daman and Diu,2017,0.5
+Puducherry,2017,0.5634
+Bihar,2018,0.4849
+Chhattisgarh,2018,0.5055
+Jharkhand,2018,0.4957
+Madhya Pradesh,2018,0.44
+Uttar Pradesh,2018,0.4679
+Uttarakhand,2018,0.5094
+Andaman and Nicobar,2018,0.8033
+Andhra Pradesh,2018,0.4599
+Assam,2018,0.6215
+Delhi,2018,0.3547
+Goa,2018,0.6543
+Gujarat,2018,0.3635
+Haryana,2018,0.4858
+Himachal Pradesh,2018,0.3654
+Karnataka,2018,0.4753
+Kerala,2018,0.7245
+Lakshadweep,2018,0.5835
+Maharashtra,2018,0.45
+Manipur,2018,0.7364
+Meghalaya,2018,0.7231
+Mizoram,2018,0.7983
+Nagaland,2018,0.7562
+Orissa,2018,0.5536
+Punjab,2018,0.5416
+Rajasthan,2018,0.29
+Sikkim,2018,0.4474
+Tamil Nadu,2018,0.5041
+Tripura,2018,0.7245
+West Bengal,2018,0.5491
+Arunachal Pradesh,2018,0.7505
+Chandigarh,2018,0.432
+Dadra and Nagar Haveli,2018,0.4812
+Daman and Diu,2018,0.4521
+Puducherry,2018,0.5538
+Bihar,2019,0.5048
+Chhattisgarh,2019,0.5362
+Jharkhand,2019,0.5177
+Madhya Pradesh,2019,0.4732
+Uttar Pradesh,2019,0.5087
+Uttarakhand,2019,0.5153
+Andaman and Nicobar,2019,0.8038
+Andhra Pradesh,2019,0.481
+Assam,2019,0.6284
+Delhi,2019,0.3812
+Goa,2019,0.6452
+Gujarat,2019,0.4009
+Haryana,2019,0.5228
+Himachal Pradesh,2019,0.3642
+Karnataka,2019,0.4843
+Kerala,2019,0.7226
+Lakshadweep,2019,0.5753
+Maharashtra,2019,0.4619
+Manipur,2019,0.7641
+Meghalaya,2019,0.7446
+Mizoram,2019,0.8078
+Nagaland,2019,0.7866
+Orissa,2019,0.5822
+Punjab,2019,0.5862
+Rajasthan,2019,0.3145
+Sikkim,2019,0.4495
+Tamil Nadu,2019,0.4927
+Tripura,2019,0.7351
+West Bengal,2019,0.5651
+Arunachal Pradesh,2019,0.7671
+Chandigarh,2019,0.4587
+Dadra and Nagar Haveli,2019,0.4838
+Daman and Diu,2019,0.4973
+Puducherry,2019,0.5514
+Bihar,2020,0.534
+Chhattisgarh,2020,0.5809
+Jharkhand,2020,0.5654
+Madhya Pradesh,2020,0.5282
+Uttar Pradesh,2020,0.5238
+Uttarakhand,2020,0.528
+Andaman and Nicobar,2020,0.8043
+Andhra Pradesh,2020,0.5286
+Assam,2020,0.6194
+Delhi,2020,0.39
+Goa,2020,0.6767
+Gujarat,2020,0.4386
+Haryana,2020,0.5085
+Himachal Pradesh,2020,0.37
+Karnataka,2020,0.5247
+Kerala,2020,0.7539
+Lakshadweep,2020,0.5175
+Maharashtra,2020,0.528
+Manipur,2020,0.7577
+Meghalaya,2020,0.726
+Mizoram,2020,0.8076
+Nagaland,2020,0.7812
+Orissa,2020,0.6124
+Punjab,2020,0.5771
+Rajasthan,2020,0.3223
+Sikkim,2020,0.4247
+Tamil Nadu,2020,0.5332
+Tripura,2020,0.7388
+West Bengal,2020,0.5818
+Arunachal Pradesh,2020,0.7538
+Chandigarh,2020,0.4632
+Dadra and Nagar Haveli,2020,0.5364
+Daman and Diu,2020,0.5141
+Puducherry,2020,0.5783
